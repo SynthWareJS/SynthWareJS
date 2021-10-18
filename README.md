@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SynthWareJS
+- 👀 I’m interested in: Gaming
+- 🌱 I’m currently learning: JavaScript
+- 💞️ I’m looking to collaborate on: Nothing
+- 📫 How to reach me: Discord, Reddit and Youtube
